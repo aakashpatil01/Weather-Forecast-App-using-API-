@@ -7,27 +7,27 @@ Weather information is something we all check daily. I built this application to
 
 
 ## Features at a Glance
-Get real-time weather updates for any city
-Displays temperature, humidity, wind speed, and weather condition
-Simple user input-based system
-Fast and accurate API-based results
-Lightweight and easy to run
+  -Get real-time weather updates for any city
+  -Displays temperature, humidity, wind speed, and weather condition
+  -Simple user input-based system
+  -Fast and accurate API-based results
+  -Lightweight and easy to run
 
 
 ## Technologies Used
-Python 3
-Requests library
-Weather API (OpenWeatherMap or similar)
-JSON handling
+  -Python 3
+  -Requests library
+  -Weather API (OpenWeatherMap or similar)
+  -JSON handling
 
 ## Getting Started
-Step 1 — Make sure Python 3 is installed
-Step 2 — Install required library:
-pip install requests
-Step 3 — Download or clone this repository
--Step 4 — Open terminal and run:
-python weather_app.py
+  -Step 1 — Make sure Python 3 is installed
+  -Step 2 — Install required library:
+            pip install requests
+  -Step 3 — Download or clone this repository
+  -Step 4 — Open terminal and run:
+            python weather_app.py
 
 
 ## Skills I Picked Up
--Through this project I gained hands-on experience in API integration, handling JSON data, working with HTTP requests, and building real-world Python applications that interact with external services.
+  -Through this project I gained hands-on experience in API integration, handling JSON data, working with HTTP requests, and building real-world Python applications that interact with external services.
