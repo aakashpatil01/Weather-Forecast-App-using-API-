@@ -2,9 +2,6 @@
 A Python-based weather forecast application that uses a weather API to fetch and display real-time weather details like temperature, humidity, wind speed, and conditions for any user-specified city.
 
 
-# Weather Forecast App
-
-A handy weather tracking tool built in Python that helps you get real-time weather updates for any city using a weather API. Built as part of my internship training at SkillInfyTech IT Solutions.
 
 ## Project Overview
 
@@ -40,8 +37,3 @@ Knowing weather conditions is important in daily life. I built this tool to unde
 - Building real-world Python applications
 - Using live external data in projects
 
-## Internship Details
-
-- Organization: SkillInfyTech IT Solutions
-- Domain: Python Programming
-- Motto: Intern. Learn. Certify. Grow.
